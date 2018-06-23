@@ -12,3 +12,4 @@ This my first post by markdown.
 #### siji
 ##### wuji
 ###### liuji
+$a \quad b$ 
